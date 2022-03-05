@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort.
+
+How do you know?: Is better than the sort3 in the already sorted test
+
+sort2 uses: Merge sort
+
+How do you know?: Is the fastest and has a linear time in all 3 tests
+
+sort3 uses: Selection sort
+
+How do you know?: Also has a linear time but is slow in the already sorted test
